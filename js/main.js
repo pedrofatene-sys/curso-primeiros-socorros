@@ -1,24 +1,8 @@
 // Lista de vídeos do YouTube (IDs extraídos das URLs)
 const channels = [
-    { id: 'nEXG6FbnoEM', name: 'CONCEITOS BÁSICOS' },
-    { id: 'VDuN6aV1fvY', name: 'SUPORTE BÁSICO DE VIDA (SBV)' },
-    { id: 'POh1Zqjv7q4', name: 'EMERGÊNCIAS EM TRAUMAS E CONTROLE DE HEMORRAGIAS' },
-    { id: 'PD5qhPaDSYQ', name: 'EMERGÊNCIAS CLÍNICAS' },
-    { id: 'MmDzVUSFKVY', name: 'EMERGÊNCIAS AMBIENTAIS: INTOXICAÇÕES, ANIMAIS PEÇONHENTOS E MUITO MAIS' },
-    { id: 'T4lmZGgXbGw', name: 'EMERGÊNCIAS PSICOLÓGICAS: PSICOLOGIA EM CRISE' },
-    { id: 'qDBQ5_pCVuc', name: 'EMERGÊNCIAS DOMÉSTICAS' },
-    { id: '_W7qmHlUZSE', name: 'Cadeia da Sobrevivência na PCR: O Passo a Passo Atualizado que SALVA VIDAS!' },
-    { id: 'Prw2I3Be-xY', name: 'CLASSIFICAÇÃO DE RISCO: PROTOCOLO DE MANCHESTER' },
-    { id: 'GUKyuZq8ipo', name: 'SUPORTE BÁSICO e AVANÇADO de VIDA: Quando Acionar o SAMU, Primeiros Socorros e Protocolos PHTLS/ATLS' },
-    { id: 'mUmB2npCkC4', name: 'CINEMÁTICA DO TRAUMA: Como Avaliar a Cena, Identificar Acidentes Graves e Prever Lesões' },
-    { id: 'nGN762tA5qI', name: 'XABCDE - ABCDE - CAB: AVALIAÇÃO PRIMÁRIA E SECUNDÁRIA NA EMERGÊNCIA' },
-    { id: 'ZWI27E3NohI', name: 'VOCÊ SABE O QUE FAZER EM UMA EMERGÊNCIA?' },
-    { id: '6XbtR5LDFNU', name: 'Quem Pode Prestar Primeiros Socorros?' },
-    { id: 'Gft718Zt5UY', name: 'EMERGÊNCIA: Para Quem Ligar em Cada Situação? Aprenda a Acionar o Socorro Certo!' },
-    { id: 'SeKPZ0tva54', name: 'EMERGÊNCIA! Como IDENTIFICAR e AGIR em SITUAÇÕES MAIS GRAVES?' },
-    { id: 'HtmRcrI3E9s', name: 'PRIMEIROS SOCORROS: NÃO DEIXE PARA DEPOIS, APRENDA JÁ!' },
-    { id: 'M-U_wanMT1c', name: 'MÉTODO START: Como Fazer Triagem Rápida em Múltiplas Vítimas!' },
-    { id: 'EhcGPgQsRnU', name: 'METODOLOGIA DOS 3 "S" DO PHTLS: O PASSO A PASSO QUE TODO SOCORRISTA PRECISA SABER' }
+    { id: '2yhmgUo4nu4', name: 'CONCEITOS FUNDAMENTAIS DE PRIMEIROS SOCORROS' },
+    { id: 'Qp4-VS8afQs', name: 'ENGASGO + PARADA CARDIORESPIRATÓRIA (SBV)' },
+    { id: 'ALAp0fuiwdY', name: 'PRIMEIROS SOCORROS EM EMERGÊNCIAS CLÍNICAS E TRAUMÁTICAS' }
 ];
 
 // Estado atual
